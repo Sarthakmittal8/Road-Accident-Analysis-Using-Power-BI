@@ -3,12 +3,12 @@
 ## Executive Summary
 
 ### Background of the Project
-In an era where data-driven decisions are crucial, analyzing road accident data can significantly enhance public safety. This article details my Power BI project on road accident analysis, focusing on India. By transforming extensive datasets from Kaggle into actionable insights, I aimed to identify patterns and trends that could help mitigate accidents. This case study showcases my proficiency in data visualization and analytics, demonstrating how data can drive strategic decisions to enhance road safety.
+In an era where data-driven decisions are crucial, analyzing road accident data can significantly enhance public safety. This article details my Power BI project on road accident analysis, focusing on the UK. By transforming extensive datasets from Kaggle into actionable insights, I aimed to identify patterns and trends that could help mitigate accidents. This case study showcases my proficiency in data visualization and analytics, demonstrating how data can drive strategic decisions to enhance road safety.
 
 ### Key Insights Categorized
 
 #### Broad Assessment of Accident Data:
-- The dataset includes accidents from 2024 and 2025 in India, with detailed records on date, time, location, weather conditions, and vehicle types.
+- The dataset includes accidents from 2024 and 2025 in the UK, with detailed records on date, time, location, weather conditions, and vehicle types.
 - Significant patterns and trends were identified that can inform safety measures.
 
 #### Key Insights Uncovered:
@@ -34,7 +34,7 @@ In an era where data-driven decisions are crucial, analyzing road accident data 
 [Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiMThkM2IzMjAtMTc2YS00ZDE2LTg1ZDktYzVjOTlmOGZmNzE4IiwidCI6IjQ5MWM2ZTNhLTA3MjItNDhmMi1iMDFhLWFhMzliODc0MGYxNiJ9)
 
 ## Main Dashboard
-The Power BI dashboard we created visually presents the key insights and metrics derived from the dataset. It allows stakeholders to interactively explore the data and gain a better understanding of Road accidents trends around India.
+The Power BI dashboard we created visually presents the key insights and metrics derived from the dataset. It allows stakeholders to interactively explore the data and gain a better understanding of Road accidents trends around the UK.
 
 ### Interactive Features
 - **Slicers and Filters**: Enabled users to drill down into specific data segments, such as filtering by date, location, or weather condition.
